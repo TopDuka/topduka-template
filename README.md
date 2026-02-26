@@ -113,23 +113,9 @@ The template uses TailwindCSS with a dark theme. Customize colors and styles in:
 
 The TopDuka client is configured in `lib/duka.ts`. Modify this file if you need additional TopDuka features or different configuration options.
 
-## Deployment
-
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
-3. Add your `NEXT_PUBLIC_API_KEY` as an environment variable in Vercel
-4. Deploy
-
-### Other Platforms
-
-This template can be deployed to any platform that supports Next.js applications. Ensure you set the `NEXT_PUBLIC_API_KEY` environment variable in production.
-
 ## Learn More
 
-- [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features
-- [TopDuka Documentation](https://docs.topduka.com) - TopDuka API reference
+- [TopDuka Documentation](https://topduka.com) - TopDuka API reference
 - [TailwindCSS](https://tailwindcss.com/docs) - Styling framework
 
 ## Support
